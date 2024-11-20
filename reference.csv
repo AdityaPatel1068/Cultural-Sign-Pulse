@@ -1,0 +1,1644 @@
+dataset,file_name,label,sentiment
+train,#asl.mp4,#asl,neutral
+train,#ok.mp4,#ok,fear
+train,21.mp4,21,neutral
+train,22.mp4,22,neutral
+train,23.mp4,23,neutral
+train,24.mp4,24,neutral
+train,25.mp4,25,neutral
+train,26.mp4,26,neutral
+train,27.mp4,27,neutral
+train,28.mp4,28,neutral
+train,29.mp4,29,neutral
+train,30.mp4,30,neutral
+train,50.mp4,50,neutral
+train,about.mp4,about,happy
+train,absent.mp4,absent,neutral
+train,accept.mp4,accept,neutral
+train,accident.mp4,accident,neutral
+train,accountant.mp4,accountant,neutral
+train,acquire.mp4,acquire,neutral
+train,actor.mp4,actor,happy
+train,adopt.mp4,adopt,happy
+train,adult.mp4,adult,happy
+train,afraid.mp4,afraid,neutral
+train,africa.mp4,africa,neutral
+train,after.mp4,after,neutral
+train,afternoon.mp4,afternoon,sad
+train,again.mp4,again,happy
+train,airplane.mp4,airplane,neutral
+train,alarm.mp4,alarm,neutral
+train,algebra.mp4,algebra,neutral
+train,all day.mp4,all day,neutral
+train,all morning.mp4,all morning,neutral
+train,all night.mp4,all night,neutral
+train,all.mp4,all,sad
+train,alone.mp4,alone,sad
+train,also.mp4,also,neutral
+train,always.mp4,always,sad
+train,america.mp4,america,angry
+train,and.mp4,and,neutral
+train,angry.mp4,angry,neutral
+train,animal.mp4,animal,neutral
+train,annoy.mp4,annoy,neutral
+train,answer.mp4,answer,neutral
+train,any.mp4,any,sad
+train,apartment.mp4,apartment,neutral
+train,apple.mp4,apple,No face detected
+train,apply.mp4,apply,neutral
+train,appointment.mp4,appointment,neutral
+train,area.mp4,area,neutral
+train,argentina.mp4,argentina,happy
+train,argue.mp4,argue,sad
+train,army.mp4,army,neutral
+train,around.mp4,around,neutral
+train,arrive.mp4,arrive,sad
+train,arrogant.mp4,arrogant,No face detected
+train,artist.mp4,artist,neutral
+train,asia.mp4,asia,angry
+train,ask.mp4,ask,No face detected
+train,asl.mp4,asl,neutral
+train,athlete.mp4,athlete,angry
+train,aunt.mp4,aunt,neutral
+train,australia.mp4,australia,neutral
+train,austria.mp4,austria,sad
+train,autumn in love.mp4,autumn in love,happy
+train,autumn.mp4,autumn,happy
+train,awful.mp4,awful,sad
+train,awkward.mp4,awkward,sad
+train,baby.mp4,baby,No face detected
+train,back.mp4,back,neutral
+train,backpack.mp4,backpack,No face detected
+train,bacon.mp4,bacon,neutral
+train,bad.mp4,bad,sad
+train,bake.mp4,bake,neutral
+train,bald.mp4,bald,neutral
+train,ball.mp4,ball,happy
+train,banana.mp4,banana,neutral
+train,bank.mp4,bank,neutral
+train,baseball.mp4,baseball,neutral
+train,basement.mp4,basement,No face detected
+train,basketball.mp4,basketball,No face detected
+train,bat.mp4,bat,sad
+train,bath.mp4,bath,sad
+train,bathroom.mp4,bathroom,neutral
+train,bathtub.mp4,bathtub,sad
+train,beach.mp4,beach,neutral
+train,bear.mp4,bear,neutral
+train,beard.mp4,beard,neutral
+train,beautiful.mp4,beautiful,No face detected
+train,become.mp4,become,neutral
+train,bed.mp4,bed,neutral
+train,bedroom.mp4,bedroom,neutral
+train,beer.mp4,beer,neutral
+train,before.mp4,before,neutral
+train,believe.mp4,believe,No face detected
+train,belt.mp4,belt,neutral
+train,best friend.mp4,best friend,happy
+train,better.mp4,better,sad
+train,bicycle.mp4,bicycle,happy
+train,big.mp4,big,neutral
+train,biology.mp4,biology,neutral
+train,bird.mp4,bird,angry
+train,birthday.mp4,birthday,neutral
+train,black.mp4,black,neutral
+train,blanket.mp4,blanket,sad
+train,blue.mp4,blue,fear
+train,boat.mp4,boat,No face detected
+train,book.mp4,book,fear
+train,bookstore.mp4,bookstore,neutral
+train,boots.mp4,boots,fear
+train,bored.mp4,bored,angry
+train,boring.mp4,boring,sad
+train,born.mp4,born,neutral
+train,boss.mp4,boss,neutral
+train,both.mp4,both,sad
+train,bowl.mp4,bowl,angry
+train,bowling.mp4,bowling,neutral
+train,boy.mp4,boy,neutral
+train,boyfriend.mp4,boyfriend,neutral
+train,brave.mp4,brave,neutral
+train,bread.mp4,bread,happy
+train,break up.mp4,break up,neutral
+train,break.mp4,break,neutral
+train,breakfast.mp4,breakfast,neutral
+train,bright.mp4,bright,happy
+train,broke.mp4,broke,angry
+train,brother.mp4,brother,happy
+train,brown.mp4,brown,neutral
+train,brush teeth.mp4,brush teeth,neutral
+train,bug.mp4,bug,No face detected
+train,build.mp4,build,neutral
+train,building.mp4,building,sad
+train,bus.mp4,bus,No face detected
+train,business.mp4,business,neutral
+train,busy.mp4,busy,sad
+train,but.mp4,but,neutral
+train,butter.mp4,butter,neutral
+train,butterfly.mp4,butterfly,neutral
+train,buy.mp4,buy,neutral
+train,bye.mp4,bye,neutral
+train,cabinets.mp4,cabinets,neutral
+train,cafeteria.mp4,cafeteria,happy
+train,cake.mp4,cake,neutral
+train,calculus.mp4,calculus,sad
+train,calendar.mp4,calendar,neutral
+train,call.mp4,call,neutral
+train,camera.mp4,camera,happy
+train,camp.mp4,camp,No face detected
+train,camping.mp4,camping,neutral
+train,can't.mp4,can't,neutral
+train,can.mp4,can,neutral
+train,canada.mp4,canada,neutral
+train,candle.mp4,candle,No face detected
+train,candy.mp4,candy,happy
+train,car.mp4,car,happy
+train,card.mp4,card,neutral
+train,careful.mp4,careful,neutral
+train,carrot.mp4,carrot,No face detected
+train,cashier.mp4,cashier,happy
+train,cat.mp4,cat,happy
+train,celebrate.mp4,celebrate,happy
+train,cent.mp4,cent,neutral
+train,center school.mp4,center school,neutral
+train,center.mp4,center,neutral
+train,cereal.mp4,cereal,No face detected
+train,challenge.mp4,challenge,neutral
+train,change.mp4,change,No face detected
+train,chat.mp4,chat,sad
+train,cheap.mp4,cheap,neutral
+train,check.mp4,check,neutral
+train,cheese.mp4,cheese,happy
+train,chef.mp4,chef,neutral
+train,chemistry.mp4,chemistry,neutral
+train,cherry.mp4,cherry,neutral
+train,chicken.mp4,chicken,happy
+train,child.mp4,child,neutral
+train,children.mp4,children,neutral
+train,china.mp4,china,neutral
+train,chocolate.mp4,chocolate,neutral
+train,christmas.mp4,christmas,neutral
+train,church.mp4,church,No face detected
+train,city.mp4,city,neutral
+train,class.mp4,class,happy
+train,classroom.mp4,classroom,neutral
+train,clock.mp4,clock,neutral
+train,close.mp4,close,neutral
+train,closet.mp4,closet,neutral
+train,clothes.mp4,clothes,neutral
+train,cloud.mp4,cloud,neutral
+train,cochlear implant.mp4,cochlear implant,neutral
+train,coffee.mp4,coffee,neutral
+train,cold.mp4,cold,neutral
+train,college.mp4,college,No face detected
+train,color.mp4,color,fear
+train,come.mp4,come,neutral
+train,comfortable.mp4,comfortable,neutral
+train,complain.mp4,complain,sad
+train,computer.mp4,computer,happy
+train,confused.mp4,confused,happy
+train,cook.mp4,cook,happy
+train,cookie.mp4,cookie,No face detected
+train,cooking.mp4,cooking,neutral
+train,cool.mp4,cool,sad
+train,copy me.mp4,copy me,neutral
+train,copy.mp4,copy,neutral
+train,corn.mp4,corn,neutral
+train,cost.mp4,cost,neutral
+train,couch.mp4,couch,neutral
+train,cough.mp4,cough,No face detected
+train,country.mp4,country,neutral
+train,cousin.mp4,cousin,happy
+train,cow.mp4,cow,happy
+train,cracker.mp4,cracker,happy
+train,crash.mp4,crash,neutral
+train,crazy.mp4,crazy,neutral
+train,credit card.mp4,credit card,neutral
+train,cry.mp4,cry,neutral
+train,cuba.mp4,cuba,neutral
+train,culture.mp4,culture,neutral
+train,cup.mp4,cup,neutral
+train,curious.mp4,curious,neutral
+train,curly hair.mp4,curly hair,neutral
+train,curtains.mp4,curtains,neutral
+train,cute.mp4,cute,neutral
+train,dance.mp4,dance,No face detected
+train,dark.mp4,dark,sad
+train,daughter.mp4,daughter,sad
+train,day.mp4,day,No face detected
+train,deaf.mp4,deaf,No face detected
+train,decide.mp4,decide,sad
+train,deer.mp4,deer,No face detected
+train,delicious.mp4,delicious,No face detected
+train,denmark.mp4,denmark,neutral
+train,dentist.mp4,dentist,neutral
+train,depressed.mp4,depressed,fear
+train,dessert.mp4,dessert,neutral
+train,destroy.mp4,destroy,neutral
+train,dictionary.mp4,dictionary,neutral
+train,die.mp4,die,neutral
+train,different.mp4,different,neutral
+train,dining room.mp4,dining room,neutral
+train,dinner.mp4,dinner,fear
+train,dirty.mp4,dirty,angry
+train,disappear.mp4,disappear,No face detected
+train,disappointed.mp4,disappointed,neutral
+train,discuss.mp4,discuss,sad
+train,disgusted.mp4,disgusted,neutral
+train,dish.mp4,dish,neutral
+train,divorce.mp4,divorce,neutral
+train,dizzy.mp4,dizzy,No face detected
+train,do.mp4,do,neutral
+train,doctor.mp4,doctor,neutral
+train,dog.mp4,dog,No face detected
+train,dollar.mp4,dollar,neutral
+train,dolphin.mp4,dolphin,angry
+train,door.mp4,door,neutral
+train,dorm.mp4,dorm,happy
+train,draw.mp4,draw,neutral
+train,drawer.mp4,drawer,neutral
+train,dress.mp4,dress,neutral
+train,dresser.mp4,dresser,neutral
+train,drink.mp4,drink,neutral
+train,drop.mp4,drop,neutral
+train,dry.mp4,dry,neutral
+train,dryer.mp4,dryer,neutral
+train,duck.mp4,duck,neutral
+train,due.mp4,due,sad
+train,during.mp4,during,neutral
+train,early.mp4,early,neutral
+train,earn.mp4,earn,neutral
+train,ears.mp4,ears,neutral
+train,earthquake.mp4,earthquake,happy
+train,east.mp4,east,neutral
+train,easter.mp4,easter,sad
+train,easy.mp4,easy,angry
+train,eat.mp4,eat,No face detected
+train,economics.mp4,economics,neutral
+train,educate.mp4,educate,neutral
+train,education.mp4,education,neutral
+train,egg.mp4,egg,happy
+train,egypt.mp4,egypt,neutral
+train,eighteen.mp4,eighteen,neutral
+train,elephant.mp4,elephant,neutral
+train,elevator.mp4,elevator,angry
+train,eleven.mp4,eleven,neutral
+train,email.mp4,email,neutral
+train,embarrassed.mp4,embarrassed,neutral
+train,emergency.mp4,emergency,sad
+train,engaged.mp4,engaged,neutral
+train,engineer.mp4,engineer,neutral
+train,english.mp4,english,neutral
+train,enjoy.mp4,enjoy,neutral
+train,envelope.mp4,envelope,neutral
+train,equal.mp4,equal,neutral
+train,europe.mp4,europe,neutral
+train,every afternoon.mp4,every afternoon,neutral
+train,every morning.mp4,every morning,neutral
+train,every night.mp4,every night,neutral
+train,every week.mp4,every week,neutral
+train,every year.mp4,every year,neutral
+train,everyday.mp4,everyday,neutral
+train,exam.mp4,exam,fear
+train,example.mp4,example,neutral
+train,excited.mp4,excited,happy
+train,excuse me.mp4,excuse me,angry
+train,exercise.mp4,exercise,neutral
+train,expensive.mp4,expensive,angry
+train,explain.mp4,explain,happy
+train,eyeglasses.mp4,eyeglasses,angry
+train,eyes.mp4,eyes,neutral
+train,face.mp4,face,fear
+train,fail.mp4,fail,happy
+train,false.mp4,false,neutral
+train,family.mp4,family,neutral
+train,famous.mp4,famous,neutral
+train,far.mp4,far,neutral
+train,fast.mp4,fast,neutral
+train,fat.mp4,fat,neutral
+train,father.mp4,father,neutral
+train,favorite.mp4,favorite,neutral
+train,feel.mp4,feel,fear
+train,fence.mp4,fence,neutral
+train,few.mp4,few,No face detected
+train,fifteen.mp4,fifteen,neutral
+train,fight.mp4,fight,angry
+train,find.mp4,find,neutral
+train,fine.mp4,fine,neutral
+train,fingerspell.mp4,fingerspell,happy
+train,finish.mp4,finish,No face detected
+train,finland.mp4,finland,happy
+train,fire.mp4,fire,neutral
+train,firefighter.mp4,firefighter,neutral
+train,first.mp4,first,happy
+train,fish.mp4,fish,neutral
+train,fishing.mp4,fishing,No face detected
+train,fix.mp4,fix,happy
+train,flag.mp4,flag,neutral
+train,flat tire.mp4,flat tire,neutral
+train,flirt.mp4,flirt,sad
+train,floor.mp4,floor,neutral
+train,flower.mp4,flower,neutral
+train,fly.mp4,fly,happy
+train,focus.mp4,focus,neutral
+train,football.mp4,football,neutral
+train,for.mp4,for,neutral
+train,forget.mp4,forget,neutral
+train,fourteen.mp4,fourteen,neutral
+train,fox.mp4,fox,happy
+train,france fries.mp4,france fries,happy
+train,france.mp4,france,No face detected
+train,free.mp4,free,happy
+train,freeway.mp4,freeway,sad
+train,freeze cream.mp4,freeze cream,happy
+train,freeze.mp4,freeze,sad
+train,freshman.mp4,freshman,neutral
+train,friday.mp4,friday,neutral
+train,friend.mp4,friend,neutral
+train,friendly.mp4,friendly,neutral
+train,frog.mp4,frog,neutral
+train,from.mp4,from,No face detected
+train,front.mp4,front,neutral
+train,fruit.mp4,fruit,neutral
+train,frustrated.mp4,frustrated,neutral
+train,full.mp4,full,happy
+train,fun.mp4,fun,neutral
+train,funny.mp4,funny,neutral
+train,furniture.mp4,furniture,angry
+train,future.mp4,future,neutral
+train,game.mp4,game,happy
+train,garage.mp4,garage,No face detected
+train,gas.mp4,gas,fear
+train,gasoline.mp4,gasoline,sad
+train,geometry.mp4,geometry,neutral
+train,germany.mp4,germany,neutral
+train,get up.mp4,get up,neutral
+train,get.mp4,get,neutral
+train,giraffe.mp4,giraffe,neutral
+train,girl.mp4,girl,No face detected
+train,girlfriend.mp4,girlfriend,No face detected
+train,give.mp4,give,happy
+train,glass.mp4,glass,neutral
+train,glasses.mp4,glasses,neutral
+train,glue.mp4,glue,neutral
+train,go steady.mp4,go steady,sad
+train,go to.mp4,go to,neutral
+train,go.mp4,go,neutral
+train,goat.mp4,goat,surprise
+train,gold.mp4,gold,neutral
+train,gone.mp4,gone,neutral
+train,good afternoon.mp4,good afternoon,happy
+train,good morning.mp4,good morning,neutral
+train,good.mp4,good,neutral
+train,gossip.mp4,gossip,neutral
+train,government.mp4,government,neutral
+train,graduate.mp4,graduate,neutral
+train,grandfather.mp4,grandfather,No face detected
+train,grandmother.mp4,grandmother,sad
+train,grapes.mp4,grapes,neutral
+train,grass.mp4,grass,neutral
+train,gray.mp4,gray,happy
+train,greece.mp4,greece,neutral
+train,green.mp4,green,neutral
+train,grey.mp4,grey,neutral
+train,group.mp4,group,fear
+train,guilty.mp4,guilty,neutral
+train,gum.mp4,gum,neutral
+train,gym.mp4,gym,neutral
+train,gymnastics.mp4,gymnastics,neutral
+train,hair.mp4,hair,happy
+train,half hour.mp4,half hour,happy
+train,half.mp4,half,neutral
+train,halloween.mp4,halloween,happy
+train,hamburger.mp4,hamburger,No face detected
+train,hanukkah.mp4,hanukkah,sad
+train,happen.mp4,happen,neutral
+train,happy.mp4,happy,angry
+train,hard of hearing.mp4,hard of hearing,neutral
+train,hard.mp4,hard,happy
+train,hashtag.mp4,hashtag,neutral
+train,hat.mp4,hat,happy
+train,hate.mp4,hate,neutral
+train,have.mp4,have,neutral
+train,he.mp4,he,neutral
+train,head.mp4,head,No face detected
+train,headache.mp4,headache,happy
+train,hear.mp4,hear,neutral
+train,hearing help.mp4,hearing help,angry
+train,hearing.mp4,hearing,happy
+train,heart.mp4,heart,neutral
+train,hello.mp4,hello,neutral
+train,help.mp4,help,neutral
+train,here.mp4,here,neutral
+train,hi.mp4,hi,No face detected
+train,hid.mp4,hid,neutral
+train,high school.mp4,high school,neutral
+train,hike.mp4,hike,neutral
+train,hill.mp4,hill,neutral
+train,hippo.mp4,hippo,angry
+train,his.mp4,his,angry
+train,history.mp4,history,sad
+train,hit.mp4,hit,fear
+train,hockey.mp4,hockey,neutral
+train,hoddog.mp4,hoddog,neutral
+train,hold on.mp4,hold on,happy
+train,holland.mp4,holland,neutral
+train,home.mp4,home,fear
+train,homework.mp4,homework,neutral
+train,hong kong.mp4,hong kong,sad
+train,horse.mp4,horse,fear
+train,hospital.mp4,hospital,neutral
+train,hot.mp4,hot,fear
+train,hotel.mp4,hotel,fear
+train,hour.mp4,hour,neutral
+train,house.mp4,house,No face detected
+train,how are you.mp4,how are you,fear
+train,how.mp4,how,angry
+train,howmany.mp4,howmany,neutral
+train,how_many.mp4,how_many,neutral
+train,humble.mp4,humble,neutral
+train,hungry.mp4,hungry,neutral
+train,hurry.mp4,hurry,neutral
+train,hurt.mp4,hurt,angry
+train,husband.mp4,husband,neutral
+train,i love you.mp4,i love you,happy
+train,i.mp4,i,neutral
+train,if.mp4,if,neutral
+train,important.mp4,important,neutral
+train,in law.mp4,in law,neutral
+train,in.mp4,in,neutral
+train,india.mp4,india,happy
+train,inform.mp4,inform,neutral
+train,innocent.mp4,innocent,neutral
+train,interesting.mp4,interesting,happy
+train,internet.mp4,internet,sad
+train,interpreter.mp4,interpreter,happy
+train,intersection.mp4,intersection,sad
+train,iran.mp4,iran,neutral
+train,iraq.mp4,iraq,neutral
+train,ireland.mp4,ireland,neutral
+train,island.mp4,island,sad
+train,israel.mp4,israel,neutral
+train,italy.mp4,italy,neutral
+train,jacket.mp4,jacket,sad
+train,jail.mp4,jail,sad
+train,jam.mp4,jam,neutral
+train,janitor.mp4,janitor,neutral
+train,japan.mp4,japan,neutral
+train,jealous.mp4,jealous,neutral
+train,join.mp4,join,neutral
+train,juice.mp4,juice,neutral
+train,jump.mp4,jump,happy
+train,junior.mp4,junior,neutral
+train,ketchup.mp4,ketchup,neutral
+train,key.mp4,key,neutral
+train,kiss.mp4,kiss,sad
+train,kitchen.mp4,kitchen,neutral
+train,knife.mp4,knife,No face detected
+train,know.mp4,know,neutral
+train,korea.mp4,korea,happy
+train,lake.mp4,lake,neutral
+train,lamp.mp4,lamp,neutral
+train,language.mp4,language,neutral
+train,last month.mp4,last month,neutral
+train,last week.mp4,last week,neutral
+train,last year.mp4,last year,neutral
+train,last.mp4,last,happy
+train,late.mp4,late,neutral
+train,later.mp4,later,happy
+train,laugh.mp4,laugh,No face detected
+train,laundry.mp4,laundry,angry
+train,law.mp4,law,sad
+train,lawyer.mp4,lawyer,sad
+train,lazy.mp4,lazy,neutral
+train,lead.mp4,lead,angry
+train,learn.mp4,learn,neutral
+train,leave.mp4,leave,fear
+train,left.mp4,left,No face detected
+train,lemon.mp4,lemon,neutral
+train,less than.mp4,less than,neutral
+train,letter.mp4,letter,neutral
+train,lettuce.mp4,lettuce,neutral
+train,librarian.mp4,librarian,sad
+train,library.mp4,library,neutral
+train,lie.mp4,lie,neutral
+train,light.mp4,light,neutral
+train,like.mp4,like,No face detected
+train,line up.mp4,line up,happy
+train,lion.mp4,lion,happy
+train,list.mp4,list,neutral
+train,listen.mp4,listen,neutral
+train,live.mp4,live,neutral
+train,living room.mp4,living room,neutral
+train,loan.mp4,loan,neutral
+train,lobster.mp4,lobster,angry
+train,lonely.mp4,lonely,neutral
+train,long ago.mp4,long ago,sad
+train,long hair.mp4,long hair,neutral
+train,long.mp4,long,neutral
+train,look at.mp4,look at,neutral
+train,look like.mp4,look like,neutral
+train,lost.mp4,lost,neutral
+train,loud.mp4,loud,neutral
+train,lousy.mp4,lousy,angry
+train,love.mp4,love,No face detected
+train,lunch.mp4,lunch,neutral
+train,mad.mp4,mad,neutral
+train,magazine.mp4,magazine,neutral
+train,major.mp4,major,neutral
+train,make.mp4,make,neutral
+train,man.mp4,man,neutral
+train,manager.mp4,manager,neutral
+train,many.mp4,many,fear
+train,marry.mp4,marry,angry
+train,match.mp4,match,neutral
+train,math.mp4,math,surprise
+train,maybe.mp4,maybe,surprise
+train,me.mp4,me,sad
+train,mean.mp4,mean,happy
+train,meaning.mp4,meaning,neutral
+train,measure.mp4,measure,neutral
+train,meat.mp4,meat,neutral
+train,mechanic.mp4,mechanic,neutral
+train,medicine.mp4,medicine,neutral
+train,medium.mp4,medium,neutral
+train,meet.mp4,meet,sad
+train,meeting.mp4,meeting,neutral
+train,melon.mp4,melon,neutral
+train,metal.mp4,metal,No face detected
+train,mexico.mp4,mexico,neutral
+train,microwave.mp4,microwave,angry
+train,midnight.mp4,midnight,happy
+train,milk.mp4,milk,neutral
+train,minus.mp4,minus,neutral
+train,minute.mp4,minute,neutral
+train,mirror.mp4,mirror,neutral
+train,mischievous.mp4,mischievous,happy
+train,monday.mp4,monday,sad
+train,money.mp4,money,No face detected
+train,monkey.mp4,monkey,neutral
+train,month.mp4,month,neutral
+train,moon.mp4,moon,No face detected
+train,more than.mp4,more than,neutral
+train,more.mp4,more,neutral
+train,morning.mp4,morning,neutral
+train,most.mp4,most,sad
+train,mother.mp4,mother,neutral
+train,motorcycle.mp4,motorcycle,neutral
+train,mountain.mp4,mountain,angry
+train,mouse.mp4,mouse,angry
+train,mouth.mp4,mouth,No face detected
+train,movie.mp4,movie,sad
+train,museum.mp4,museum,No face detected
+train,mushroom.mp4,mushroom,neutral
+train,music.mp4,music,fear
+train,musician.mp4,musician,neutral
+train,mustache.mp4,mustache,No face detected
+train,my.mp4,my,neutral
+train,name.mp4,name,neutral
+train,near.mp4,near,neutral
+train,need.mp4,need,neutral
+train,nephew.mp4,nephew,neutral
+train,nervous.mp4,nervous,happy
+train,never.mp4,never,neutral
+train,new.mp4,new,neutral
+train,newspaper.mp4,newspaper,neutral
+train,next week.mp4,next week,happy
+train,next year.mp4,next year,neutral
+train,next.mp4,next,neutral
+train,nice to meet you.mp4,nice to meet you,happy
+train,nice.mp4,nice,neutral
+train,niece.mp4,niece,angry
+train,night.mp4,night,No face detected
+train,nineteen.mp4,nineteen,neutral
+train,no.mp4,no,neutral
+train,noon.mp4,noon,sad
+train,north.mp4,north,neutral
+train,norway.mp4,norway,neutral
+train,nose.mp4,nose,neutral
+train,nosy.mp4,nosy,neutral
+train,not know.mp4,not know,happy
+train,not like.mp4,not like,sad
+train,not understand.mp4,not understand,neutral
+train,not want.mp4,not want,neutral
+train,not yet.mp4,not yet,angry
+train,not.mp4,not,neutral
+train,nothing.mp4,nothing,neutral
+train,now.mp4,now,neutral
+train,number.mp4,number,sad
+train,nurse.mp4,nurse,sad
+train,nuts.mp4,nuts,neutral
+train,o1XWGA4KCNU.mp4,o1XWGA4KCNU,neutral
+train,ocean.mp4,ocean,fear
+train,office.mp4,office,neutral
+train,often.mp4,often,happy
+train,oh i see.mp4,oh i see,neutral
+train,ok.mp4,ok,neutral
+train,old.mp4,old,neutral
+train,one.mp4,one,No face detected
+train,onion.mp4,onion,angry
+train,only.mp4,only,neutral
+train,open.mp4,open,No face detected
+train,orange.mp4,orange,neutral
+train,our.mp4,our,angry
+train,out.mp4,out,neutral
+train,outside.mp4,outside,neutral
+train,oversleep.mp4,oversleep,neutral
+train,paint.mp4,paint,neutral
+train,painting.mp4,painting,neutral
+train,pancake.mp4,pancake,neutral
+train,pants.mp4,pants,neutral
+train,paper.mp4,paper,neutral
+train,parents.mp4,parents,angry
+train,partner.mp4,partner,neutral
+train,party.mp4,party,sad
+train,pass.mp4,pass,happy
+train,past.mp4,past,neutral
+train,pay.mp4,pay,neutral
+train,peach.mp4,peach,neutral
+train,pear.mp4,pear,neutral
+train,pencil.mp4,pencil,No face detected
+train,people.mp4,people,neutral
+train,pepper.mp4,pepper,neutral
+train,perfect.mp4,perfect,neutral
+train,personality.mp4,personality,neutral
+train,pet.mp4,pet,No face detected
+train,philippines.mp4,philippines,neutral
+train,phone.mp4,phone,neutral
+train,photographer.mp4,photographer,neutral
+train,physics.mp4,physics,neutral
+train,piano.mp4,piano,neutral
+train,pick up.mp4,pick up,neutral
+train,picture.mp4,picture,neutral
+train,pie.mp4,pie,neutral
+train,pig.mp4,pig,neutral
+train,pillow.mp4,pillow,happy
+train,pineapple.mp4,pineapple,neutral
+train,pink.mp4,pink,No face detected
+train,pizza.mp4,pizza,neutral
+train,plan.mp4,plan,No face detected
+train,plate.mp4,plate,angry
+train,play cardss.mp4,play cardss,No face detected
+train,play.mp4,play,happy
+train,please.mp4,please,neutral
+train,plus.mp4,plus,neutral
+train,poland.mp4,poland,neutral
+train,police.mp4,police,sad
+train,polite.mp4,polite,neutral
+train,pool.mp4,pool,neutral
+train,poor.mp4,poor,neutral
+train,popcorn.mp4,popcorn,No face detected
+train,portugal.mp4,portugal,neutral
+train,potato.mp4,potato,No face detected
+train,pow.mp4,pow,fear
+train,practice.mp4,practice,happy
+train,pregnant.mp4,pregnant,sad
+train,principal.mp4,principal,neutral
+train,proud.mp4,proud,happy
+train,pshaw.mp4,pshaw,neutral
+train,psychology.mp4,psychology,neutral
+train,puerto rico.mp4,puerto rico,neutral
+train,pumpkin.mp4,pumpkin,sad
+train,purchase.mp4,purchase,neutral
+train,purple.mp4,purple,neutral
+train,question.mp4,question,neutral
+train,quiet.mp4,quiet,happy
+train,rabbit.mp4,rabbit,angry
+train,radio.mp4,radio,neutral
+train,rain.mp4,rain,sad
+train,rainbow.mp4,rainbow,neutral
+train,read.mp4,read,neutral
+train,ready.mp4,ready,neutral
+train,red.mp4,red,fear
+train,refrigerator.mp4,refrigerator,neutral
+train,relationship.mp4,relationship,neutral
+train,remember.mp4,remember,neutral
+train,research.mp4,research,neutral
+train,rest.mp4,rest,neutral
+train,restaurant.mp4,restaurant,neutral
+train,retire.mp4,retire,angry
+train,rich.mp4,rich,sad
+train,right.mp4,right,neutral
+train,ring.mp4,ring,surprise
+train,river.mp4,river,neutral
+train,rock.mp4,rock,fear
+train,room.mp4,room,neutral
+train,roommate.mp4,roommate,neutral
+train,rubber.mp4,rubber,neutral
+train,rude.mp4,rude,No face detected
+train,run.mp4,run,neutral
+train,russia.mp4,russia,neutral
+train,sad.mp4,sad,neutral
+train,salad.mp4,salad,neutral
+train,salt.mp4,salt,angry
+train,same.mp4,same,No face detected
+train,sandwich.mp4,sandwich,neutral
+train,saturday.mp4,saturday,sad
+train,save.mp4,save,neutral
+train,scarf.mp4,scarf,sad
+train,schedule.mp4,schedule,fear
+train,school.mp4,school,No face detected
+train,science.mp4,science,neutral
+train,scientist.mp4,scientist,fear
+train,scissors.mp4,scissors,neutral
+train,scotland.mp4,scotland,neutral
+train,screwdriver.mp4,screwdriver,neutral
+train,search.mp4,search,neutral
+train,secretary.mp4,secretary,neutral
+train,see.mp4,see,angry
+train,seem.mp4,seem,happy
+train,sell.mp4,sell,neutral
+train,send.mp4,send,neutral
+train,senior.mp4,senior,neutral
+train,separate.mp4,separate,angry
+train,serious.mp4,serious,fear
+train,seventeen.mp4,seventeen,neutral
+train,several.mp4,several,sad
+train,sew.mp4,sew,No face detected
+train,shark.mp4,shark,angry
+train,sheep.mp4,sheep,neutral
+train,shelf.mp4,shelf,angry
+train,shelves.mp4,shelves,neutral
+train,shirt.mp4,shirt,fear
+train,shock.mp4,shock,sad
+train,shoes.mp4,shoes,neutral
+train,shop.mp4,shop,neutral
+train,short hair.mp4,short hair,happy
+train,short.mp4,short,angry
+train,show.mp4,show,neutral
+train,shower.mp4,shower,neutral
+train,shrimp.mp4,shrimp,neutral
+train,shy.mp4,shy,happy
+train,sick.mp4,sick,neutral
+train,sign language.mp4,sign language,No face detected
+train,sign.mp4,sign,happy
+train,silly.mp4,silly,happy
+train,silver.mp4,silver,neutral
+train,since.mp4,since,neutral
+train,single.mp4,single,angry
+train,sink.mp4,sink,neutral
+train,sister.mp4,sister,happy
+train,sit.mp4,sit,neutral
+train,sixteen.mp4,sixteen,neutral
+train,skirt.mp4,skirt,neutral
+train,sleep.mp4,sleep,sad
+train,sleepy.mp4,sleepy,neutral
+train,slide.mp4,slide,neutral
+train,slow.mp4,slow,neutral
+train,small.mp4,small,angry
+train,smart.mp4,smart,No face detected
+train,snake.mp4,snake,sad
+train,sneeze.mp4,sneeze,neutral
+train,snob.mp4,snob,happy
+train,snow.mp4,snow,neutral
+train,snowboard.mp4,snowboard,neutral
+train,so.mp4,so,happy
+train,soap.mp4,soap,happy
+train,soccer.mp4,soccer,neutral
+train,socks.mp4,socks,neutral
+train,soda.mp4,soda,neutral
+train,some.mp4,some,fear
+train,sometimes.mp4,sometimes,happy
+train,son.mp4,son,neutral
+train,soon.mp4,soon,neutral
+train,sophomore.mp4,sophomore,happy
+train,sore throat.mp4,sore throat,happy
+train,sorry.mp4,sorry,No face detected
+train,soup.mp4,soup,neutral
+train,south africa.mp4,south africa,neutral
+train,south america.mp4,south america,neutral
+train,south.mp4,south,neutral
+train,spaghetti.mp4,spaghetti,sad
+train,spain.mp4,spain,neutral
+train,spanish.mp4,spanish,neutral
+train,speech.mp4,speech,angry
+train,spell.mp4,spell,angry
+train,spider.mp4,spider,neutral
+train,spoon.mp4,spoon,neutral
+train,sports.mp4,sports,happy
+train,spring up.mp4,spring up,sad
+train,spring.mp4,spring,neutral
+train,squirrel.mp4,squirrel,neutral
+train,stairs.mp4,stairs,neutral
+train,stamp.mp4,stamp,fear
+train,stand.mp4,stand,happy
+train,star.mp4,star,angry
+train,start.mp4,start,neutral
+train,stay.mp4,stay,neutral
+train,steal.mp4,steal,neutral
+train,still.mp4,still,No face detected
+train,stop.mp4,stop,happy
+train,store.mp4,store,No face detected
+train,stove.mp4,stove,neutral
+train,strange.mp4,strange,neutral
+train,strawberry.mp4,strawberry,neutral
+train,street.mp4,street,neutral
+train,strict.mp4,strict,angry
+train,strong.mp4,strong,angry
+train,stubborn.mp4,stubborn,neutral
+train,stuck.mp4,stuck,neutral
+train,student.mp4,student,No face detected
+train,study.mp4,study,neutral
+train,stupid.mp4,stupid,neutral
+train,subway.mp4,subway,happy
+train,sugar.mp4,sugar,No face detected
+train,summer.mp4,summer,happy
+train,sun.mp4,sun,fear
+train,sunday.mp4,sunday,No face detected
+train,surprise.mp4,surprise,happy
+train,sweater.mp4,sweater,neutral
+train,sweden.mp4,sweden,happy
+train,sweep.mp4,sweep,neutral
+train,sweet.mp4,sweet,sad
+train,sweetheart.mp4,sweetheart,neutral
+train,swim.mp4,swim,neutral
+train,swimming.mp4,swimming,sad
+train,swing.mp4,swing,happy
+train,switzerland.mp4,switzerland,angry
+train,table.mp4,table,fear
+train,taiwan.mp4,taiwan,neutral
+train,take care.mp4,take care,sad
+train,take up.mp4,take up,neutral
+train,talk.mp4,talk,neutral
+train,tall.mp4,tall,neutral
+train,tape.mp4,tape,neutral
+train,tea.mp4,tea,neutral
+train,teach.mp4,teach,fear
+train,teacher.mp4,teacher,neutral
+train,team.mp4,team,sad
+train,television.mp4,television,No face detected
+train,tell.mp4,tell,sad
+train,ten.mp4,ten,No face detected
+train,tend.mp4,tend,neutral
+train,thank you.mp4,thank you,happy
+train,thanksgiving.mp4,thanksgiving,sad
+train,that one.mp4,that one,neutral
+train,theater.mp4,theater,neutral
+train,their.mp4,their,sad
+train,therapy.mp4,therapy,neutral
+train,there.mp4,there,angry
+train,they.mp4,they,fear
+train,thin.mp4,thin,neutral
+train,think.mp4,think,neutral
+train,thirsty.mp4,thirsty,neutral
+train,thirteen.mp4,thirteen,happy
+train,throw.mp4,throw,sad
+train,thursday.mp4,thursday,sad
+train,ticket.mp4,ticket,angry
+train,tie.mp4,tie,neutral
+train,tiger.mp4,tiger,happy
+train,time.mp4,time,neutral
+train,tired.mp4,tired,No face detected
+train,toast.mp4,toast,neutral
+train,today.mp4,today,neutral
+train,together.mp4,together,neutral
+train,tomato.mp4,tomato,neutral
+train,tomorrow.mp4,tomorrow,neutral
+train,total.mp4,total,neutral
+train,towel.mp4,towel,neutral
+train,traffic.mp4,traffic,neutral
+train,train.mp4,train,sad
+train,transfer.mp4,transfer,neutral
+train,travel.mp4,travel,neutral
+train,tree.mp4,tree,neutral
+train,truck.mp4,truck,No face detected
+train,true.mp4,true,surprise
+train,tuesday.mp4,tuesday,neutral
+train,turkey.mp4,turkey,neutral
+train,turtle.mp4,turtle,neutral
+train,twelve.mp4,twelve,neutral
+train,twenty.mp4,twenty,neutral
+train,twins.mp4,twins,neutral
+train,two.mp4,two,neutral
+train,ugly.mp4,ugly,neutral
+train,umbrella.mp4,umbrella,happy
+train,uncle.mp4,uncle,neutral
+train,understand.mp4,understand,neutral
+train,underwear.mp4,underwear,neutral
+train,university.mp4,university,neutral
+train,up.mp4,up,neutral
+train,use.mp4,use,neutral
+train,vacation.mp4,vacation,No face detected
+train,vacuum.mp4,vacuum,neutral
+train,vegetable.mp4,vegetable,happy
+train,vietnam.mp4,vietnam,happy
+train,visit.mp4,visit,neutral
+train,volleyball.mp4,volleyball,neutral
+train,vomit.mp4,vomit,neutral
+train,wait.mp4,wait,neutral
+train,waiter.mp4,waiter,neutral
+train,wake up.mp4,wake up,No face detected
+train,walk.mp4,walk,happy
+train,wall.mp4,wall,neutral
+train,want.mp4,want,happy
+train,warm.mp4,warm,neutral
+train,wash face.mp4,wash face,fear
+train,watch.mp4,watch,neutral
+train,water.mp4,water,neutral
+train,watermelon.mp4,watermelon,fear
+train,we.mp4,we,angry
+train,weak.mp4,weak,happy
+train,weather.mp4,weather,happy
+train,wednesday.mp4,wednesday,sad
+train,week.mp4,week,neutral
+train,weekend.mp4,weekend,neutral
+train,welcome.mp4,welcome,No face detected
+train,west.mp4,west,neutral
+train,wet.mp4,wet,neutral
+train,whale.mp4,whale,angry
+train,what's up.mp4,what's up,fear
+train,what.mp4,what,fear
+train,when.mp4,when,neutral
+train,where.mp4,where,sad
+train,which.mp4,which,angry
+train,white.mp4,white,neutral
+train,who.mp4,who,angry
+train,why.mp4,why,happy
+train,wife.mp4,wife,happy
+train,will.mp4,will,neutral
+train,win.mp4,win,neutral
+train,window.mp4,window,neutral
+train,wine.mp4,wine,neutral
+train,winter.mp4,winter,No face detected
+train,wish.mp4,wish,happy
+train,with.mp4,with,angry
+train,woman.mp4,woman,neutral
+train,wood.mp4,wood,No face detected
+train,work.mp4,work,sad
+train,world.mp4,world,neutral
+train,worm.mp4,worm,neutral
+train,worry.mp4,worry,neutral
+train,wow.mp4,wow,neutral
+train,write.mp4,write,No face detected
+train,wrong.mp4,wrong,sad
+train,year.mp4,year,happy
+train,yearbook.mp4,yearbook,sad
+train,yellow.mp4,yellow,neutral
+train,yes.mp4,yes,neutral
+train,yesterday.mp4,yesterday,neutral
+train,you.mp4,you,No face detected
+train,young.mp4,young,neutral
+train,your.mp4,your,neutral
+test,50.mp4,50,neutral
+test,about.mp4,about,fear
+test,absent.mp4,absent,neutral
+test,accept.mp4,accept,sad
+test,actor.mp4,actor,neutral
+test,afraid.mp4,afraid,neutral
+test,africa.mp4,africa,neutral
+test,afternoon.mp4,afternoon,sad
+test,airplane.mp4,airplane,neutral
+test,all.mp4,all,sad
+test,alone.mp4,alone,neutral
+test,also.mp4,also,neutral
+test,always.mp4,always,sad
+test,and.mp4,and,neutral
+test,angry.mp4,angry,neutral
+test,any.mp4,any,neutral
+test,apartment.mp4,apartment,neutral
+test,apple.mp4,apple,neutral
+test,apply.mp4,apply,neutral
+test,argentina.mp4,argentina,happy
+test,army.mp4,army,neutral
+test,asia.mp4,asia,neutral
+test,autumn.mp4,autumn,happy
+test,awful.mp4,awful,neutral
+test,baby.mp4,baby,neutral
+test,bad.mp4,bad,sad
+test,baseball.mp4,baseball,happy
+test,bathtub.mp4,bathtub,neutral
+test,beach.mp4,beach,neutral
+test,bear.mp4,bear,neutral
+test,beautiful.mp4,beautiful,neutral
+test,belt.mp4,belt,No face detected
+test,best friend.mp4,best friend,happy
+test,bicycle.mp4,bicycle,angry
+test,big.mp4,big,angry
+test,boat.mp4,boat,neutral
+test,born.mp4,born,neutral
+test,boss.mp4,boss,neutral
+test,both.mp4,both,angry
+test,bowl.mp4,bowl,surprise
+test,boy.mp4,boy,neutral
+test,bread.mp4,bread,neutral
+test,break up.mp4,break up,happy
+test,broke.mp4,broke,neutral
+test,bus.mp4,bus,neutral
+test,bye.mp4,bye,neutral
+test,calendar.mp4,calendar,neutral
+test,camera.mp4,camera,happy
+test,camp.mp4,camp,neutral
+test,canada.mp4,canada,neutral
+test,carrot.mp4,carrot,neutral
+test,cashier.mp4,cashier,happy
+test,check.mp4,check,neutral
+test,china.mp4,china,neutral
+test,chocolate.mp4,chocolate,neutral
+test,christmas.mp4,christmas,neutral
+test,church.mp4,church,neutral
+test,cloud.mp4,cloud,neutral
+test,cold.mp4,cold,neutral
+test,come.mp4,come,neutral
+test,cook.mp4,cook,angry
+test,copy.mp4,copy,neutral
+test,corn.mp4,corn,neutral
+test,credit card.mp4,credit card,neutral
+test,curious.mp4,curious,neutral
+test,dance.mp4,dance,neutral
+test,deaf.mp4,deaf,fear
+test,denmark.mp4,denmark,neutral
+test,dentist.mp4,dentist,neutral
+test,dirty.mp4,dirty,angry
+test,doctor.mp4,doctor,neutral
+test,dorm.mp4,dorm,neutral
+test,draw.mp4,draw,neutral
+test,early.mp4,early,neutral
+test,earthquake.mp4,earthquake,happy
+test,eat.mp4,eat,neutral
+test,every week.mp4,every week,neutral
+test,every year.mp4,every year,neutral
+test,family.mp4,family,neutral
+test,few.mp4,few,angry
+test,fine.mp4,fine,neutral
+test,finish.mp4,finish,neutral
+test,fly.mp4,fly,happy
+test,football.mp4,football,neutral
+test,for.mp4,for,neutral
+test,forget.mp4,forget,happy
+test,france.mp4,france,happy
+test,free.mp4,free,happy
+test,freshman.mp4,freshman,neutral
+test,friendly.mp4,friendly,fear
+test,fruit.mp4,fruit,neutral
+test,full.mp4,full,neutral
+test,furniture.mp4,furniture,happy
+test,game.mp4,game,happy
+test,garage.mp4,garage,neutral
+test,germany.mp4,germany,neutral
+test,go.mp4,go,happy
+test,good afternoon.mp4,good afternoon,happy
+test,good morning.mp4,good morning,neutral
+test,good.mp4,good,sad
+test,guilty.mp4,guilty,neutral
+test,halloween.mp4,halloween,neutral
+test,happy.mp4,happy,neutral
+test,hard of hearing.mp4,hard of hearing,neutral
+test,hard.mp4,hard,neutral
+test,headache.mp4,headache,neutral
+test,hello.mp4,hello,happy
+test,hi.mp4,hi,neutral
+test,high school.mp4,high school,neutral
+test,hoddog.mp4,hoddog,neutral
+test,holland.mp4,holland,neutral
+test,hospital.mp4,hospital,neutral
+test,hot.mp4,hot,neutral
+test,hotel.mp4,hotel,fear
+test,how are you.mp4,how are you,neutral
+test,in law.mp4,in law,fear
+test,interpreter.mp4,interpreter,sad
+test,last month.mp4,last month,neutral
+test,last week.mp4,last week,neutral
+test,late.mp4,late,happy
+test,laugh.mp4,laugh,neutral
+test,lettuce.mp4,lettuce,neutral
+test,light.mp4,light,neutral
+test,list.mp4,list,neutral
+test,live.mp4,live,happy
+test,lonely.mp4,lonely,neutral
+test,long.mp4,long,neutral
+test,lost.mp4,lost,happy
+test,make.mp4,make,neutral
+test,many.mp4,many,neutral
+test,math.mp4,math,surprise
+test,maybe.mp4,maybe,neutral
+test,mean.mp4,mean,neutral
+test,mexico.mp4,mexico,neutral
+test,money.mp4,money,neutral
+test,monkey.mp4,monkey,neutral
+test,mother.mp4,mother,fear
+test,motorcycle.mp4,motorcycle,neutral
+test,next week.mp4,next week,happy
+test,now.mp4,now,angry
+test,number.mp4,number,sad
+test,onion.mp4,onion,No face detected
+test,people.mp4,people,happy
+test,personality.mp4,personality,neutral
+test,plan.mp4,plan,happy
+test,pow.mp4,pow,fear
+test,pshaw.mp4,pshaw,neutral
+test,ready.mp4,ready,happy
+test,ring.mp4,ring,neutral
+test,school.mp4,school,neutral
+test,scientist.mp4,scientist,fear
+test,sign.mp4,sign,happy
+test,spain.mp4,spain,neutral
+test,sports.mp4,sports,neutral
+test,spring.mp4,spring,neutral
+test,summer.mp4,summer,happy
+test,teacher.mp4,teacher,neutral
+test,tiger.mp4,tiger,neutral
+test,time.mp4,time,happy
+test,true.mp4,true,fear
+test,vegetable.mp4,vegetable,neutral
+test,vomit.mp4,vomit,neutral
+test,weather.mp4,weather,neutral
+test,weekend.mp4,weekend,neutral
+test,what's up.mp4,what's up,fear
+test,winter.mp4,winter,happy
+test,wood.mp4,wood,neutral
+test,yesterday.mp4,yesterday,neutral
+val,#asl.mp4,#asl,neutral
+val,#ok.mp4,#ok,sad
+val,able.mp4,able,neutral
+val,about.mp4,about,neutral
+val,accept.mp4,accept,neutral
+val,afraid.mp4,afraid,neutral
+val,africa.mp4,africa,happy
+val,after.mp4,after,neutral
+val,airplane.mp4,airplane,neutral
+val,algebra.mp4,algebra,neutral
+val,all.mp4,all,neutral
+val,alone.mp4,alone,neutral
+val,also.mp4,also,neutral
+val,america.mp4,america,neutral
+val,and.mp4,and,angry
+val,angry.mp4,angry,neutral
+val,animal.mp4,animal,neutral
+val,annoy.mp4,annoy,neutral
+val,answer.mp4,answer,neutral
+val,any.mp4,any,neutral
+val,apple.mp4,apple,neutral
+val,appointment.mp4,appointment,neutral
+val,argentina.mp4,argentina,happy
+val,argue.mp4,argue,neutral
+val,around.mp4,around,neutral
+val,arrogant.mp4,arrogant,neutral
+val,ask.mp4,ask,angry
+val,australia.mp4,australia,neutral
+val,austria.mp4,austria,neutral
+val,awful.mp4,awful,angry
+val,awkward.mp4,awkward,angry
+val,baby.mp4,baby,neutral
+val,backpack.mp4,backpack,neutral
+val,bacon.mp4,bacon,neutral
+val,bad.mp4,bad,angry
+val,bald.mp4,bald,neutral
+val,ball.mp4,ball,neutral
+val,banana.mp4,banana,happy
+val,baseball.mp4,baseball,happy
+val,bat.mp4,bat,neutral
+val,bath.mp4,bath,happy
+val,bathroom.mp4,bathroom,neutral
+val,bear.mp4,bear,neutral
+val,beard.mp4,beard,neutral
+val,beautiful.mp4,beautiful,neutral
+val,bed.mp4,bed,neutral
+val,bedroom.mp4,bedroom,sad
+val,beer.mp4,beer,neutral
+val,before.mp4,before,neutral
+val,belt.mp4,belt,neutral
+val,better.mp4,better,neutral
+val,bicycle.mp4,bicycle,neutral
+val,big.mp4,big,neutral
+val,biology.mp4,biology,neutral
+val,bird.mp4,bird,neutral
+val,bitter.mp4,bitter,neutral
+val,black.mp4,black,neutral
+val,blue.mp4,blue,neutral
+val,boat.mp4,boat,neutral
+val,BomMz02e6S0.mp4,BomMz02e6S0,No face detected
+val,book.mp4,book,neutral
+val,boots.mp4,boots,neutral
+val,boring.mp4,boring,neutral
+val,boss.mp4,boss,neutral
+val,both.mp4,both,sad
+val,bowl.mp4,bowl,neutral
+val,boy.mp4,boy,neutral
+val,boyfriend.mp4,boyfriend,neutral
+val,brave.mp4,brave,neutral
+val,bread.mp4,bread,neutral
+val,breakfast.mp4,breakfast,sad
+val,bright.mp4,bright,neutral
+val,brown.mp4,brown,neutral
+val,bug.mp4,bug,neutral
+val,bus.mp4,bus,neutral
+val,busy.mp4,busy,neutral
+val,but.mp4,but,neutral
+val,butter.mp4,butter,neutral
+val,butterfly.mp4,butterfly,neutral
+val,buy.mp4,buy,neutral
+val,bye.mp4,bye,neutral
+val,cake.mp4,cake,neutral
+val,calculus.mp4,calculus,neutral
+val,camera.mp4,camera,neutral
+val,camp.mp4,camp,sad
+val,candy.mp4,candy,happy
+val,car.mp4,car,neutral
+val,careful.mp4,careful,neutral
+val,carrot.mp4,carrot,neutral
+val,cat.mp4,cat,neutral
+val,cereal.mp4,cereal,neutral
+val,chat.mp4,chat,sad
+val,cheese.mp4,cheese,neutral
+val,china.mp4,china,neutral
+val,chocolate.mp4,chocolate,neutral
+val,church.mp4,church,neutral
+val,class.mp4,class,neutral
+val,classroom.mp4,classroom,sad
+val,clothes.mp4,clothes,neutral
+val,coffee.mp4,coffee,neutral
+val,cold.mp4,cold,happy
+val,college.mp4,college,neutral
+val,color.mp4,color,neutral
+val,comfortable.mp4,comfortable,neutral
+val,computer.mp4,computer,neutral
+val,cook.mp4,cook,neutral
+val,cookie.mp4,cookie,neutral
+val,cool.mp4,cool,neutral
+val,corn.mp4,corn,neutral
+val,cost.mp4,cost,neutral
+val,country.mp4,country,neutral
+val,cow.mp4,cow,neutral
+val,cracker.mp4,cracker,neutral
+val,crazy.mp4,crazy,neutral
+val,credit card.mp4,credit card,neutral
+val,cute.mp4,cute,neutral
+val,dance.mp4,dance,neutral
+val,dark.mp4,dark,neutral
+val,deaf.mp4,deaf,neutral
+val,deer.mp4,deer,neutral
+val,delicious.mp4,delicious,neutral
+val,dessert.mp4,dessert,happy
+val,dictionary.mp4,dictionary,neutral
+val,die.mp4,die,neutral
+val,different.mp4,different,neutral
+val,dinner.mp4,dinner,neutral
+val,dirty.mp4,dirty,happy
+val,disappointed.mp4,disappointed,neutral
+val,discuss.mp4,discuss,neutral
+val,dizzy.mp4,dizzy,neutral
+val,dog.mp4,dog,neutral
+val,dollar.mp4,dollar,angry
+val,dolphin.mp4,dolphin,neutral
+val,dorm.mp4,dorm,neutral
+val,down.mp4,down,neutral
+val,dress.mp4,dress,neutral
+val,drink.mp4,drink,neutral
+val,dry.mp4,dry,neutral
+val,duck.mp4,duck,neutral
+val,dumb.mp4,dumb,neutral
+val,ears.mp4,ears,neutral
+val,easy.mp4,easy,neutral
+val,eat.mp4,eat,angry
+val,economics.mp4,economics,neutral
+val,educate.mp4,educate,neutral
+val,education.mp4,education,neutral
+val,egg.mp4,egg,neutral
+val,egypt.mp4,egypt,neutral
+val,elephant.mp4,elephant,neutral
+val,elevator.mp4,elevator,neutral
+val,emotional.mp4,emotional,neutral
+val,engaged.mp4,engaged,neutral
+val,english.mp4,english,neutral
+val,enjoy.mp4,enjoy,neutral
+val,equal.mp4,equal,neutral
+val,every morning.mp4,every morning,neutral
+val,excuse me.mp4,excuse me,neutral
+val,exercise.mp4,exercise,neutral
+val,expensive.mp4,expensive,neutral
+val,face.mp4,face,neutral
+val,false.mp4,false,neutral
+val,family.mp4,family,happy
+val,famous.mp4,famous,neutral
+val,far.mp4,far,neutral
+val,fast.mp4,fast,neutral
+val,fat.mp4,fat,neutral
+val,father.mp4,father,neutral
+val,favorite.mp4,favorite,neutral
+val,feel.mp4,feel,neutral
+val,fence.mp4,fence,neutral
+val,few.mp4,few,neutral
+val,fine.mp4,fine,sad
+val,fingerspell.mp4,fingerspell,neutral
+val,finish.mp4,finish,neutral
+val,fish.mp4,fish,neutral
+val,flower.mp4,flower,neutral
+val,focus.mp4,focus,sad
+val,forget.mp4,forget,neutral
+val,fox.mp4,fox,neutral
+val,france fries.mp4,france fries,neutral
+val,france.mp4,france,neutral
+val,freeze cream.mp4,freeze cream,neutral
+val,friendly.mp4,friendly,neutral
+val,frog.mp4,frog,neutral
+val,fruit.mp4,fruit,neutral
+val,frustrated.mp4,frustrated,neutral
+val,funny.mp4,funny,neutral
+val,game.mp4,game,neutral
+val,garage.mp4,garage,sad
+val,geometry.mp4,geometry,neutral
+val,germany.mp4,germany,neutral
+val,giraffe.mp4,giraffe,neutral
+val,girlfriend.mp4,girlfriend,neutral
+val,glasses.mp4,glasses,neutral
+val,go to.mp4,go to,neutral
+val,goat.mp4,goat,neutral
+val,gold.mp4,gold,neutral
+val,good.mp4,good,neutral
+val,gossip.mp4,gossip,neutral
+val,government.mp4,government,neutral
+val,graduate.mp4,graduate,neutral
+val,grandfather.mp4,grandfather,neutral
+val,grandmother.mp4,grandmother,neutral
+val,grapes.mp4,grapes,neutral
+val,green.mp4,green,neutral
+val,gum.mp4,gum,neutral
+val,hair.mp4,hair,neutral
+val,half.mp4,half,neutral
+val,hamburger.mp4,hamburger,neutral
+val,happy.mp4,happy,happy
+val,hard of hearing.mp4,hard of hearing,neutral
+val,hard.mp4,hard,neutral
+val,hashtag.mp4,hashtag,neutral
+val,hat.mp4,hat,happy
+val,hate.mp4,hate,neutral
+val,have.mp4,have,neutral
+val,head.mp4,head,neutral
+val,hearing help.mp4,hearing help,neutral
+val,hearing.mp4,hearing,neutral
+val,heart.mp4,heart,neutral
+val,hello.mp4,hello,happy
+val,help.mp4,help,fear
+val,here.mp4,here,neutral
+val,hi.mp4,hi,sad
+val,hid.mp4,hid,happy
+val,high school.mp4,high school,neutral
+val,hippo.mp4,hippo,neutral
+val,history.mp4,history,neutral
+val,hoddog.mp4,hoddog,neutral
+val,holland.mp4,holland,happy
+val,homework.mp4,homework,neutral
+val,horse.mp4,horse,neutral
+val,hot.mp4,hot,neutral
+val,house.mp4,house,neutral
+val,how are you.mp4,how are you,neutral
+val,how.mp4,how,neutral
+val,how_many.mp4,how_many,neutral
+val,humble.mp4,humble,happy
+val,i love you.mp4,i love you,neutral
+val,i.mp4,i,neutral
+val,if.mp4,if,neutral
+val,important.mp4,important,neutral
+val,india.mp4,india,neutral
+val,inform.mp4,inform,neutral
+val,insect.mp4,insect,neutral
+val,ireland.mp4,ireland,happy
+val,italy.mp4,italy,neutral
+val,jacket.mp4,jacket,happy
+val,jam.mp4,jam,neutral
+val,japan.mp4,japan,happy
+val,jealous.mp4,jealous,neutral
+val,juice.mp4,juice,neutral
+val,ketchup.mp4,ketchup,neutral
+val,key.mp4,key,happy
+val,kiss.mp4,kiss,neutral
+val,knife.mp4,knife,neutral
+val,korea.mp4,korea,happy
+val,language.mp4,language,neutral
+val,lazy.mp4,lazy,neutral
+val,learn.mp4,learn,sad
+val,lemon.mp4,lemon,neutral
+val,less than.mp4,less than,neutral
+val,letter.mp4,letter,neutral
+val,lettuce.mp4,lettuce,neutral
+val,library.mp4,library,neutral
+val,light.mp4,light,neutral
+val,like.mp4,like,neutral
+val,lion.mp4,lion,neutral
+val,live.mp4,live,neutral
+val,living room.mp4,living room,sad
+val,lobster.mp4,lobster,neutral
+val,lonely.mp4,lonely,neutral
+val,long.mp4,long,neutral
+val,lost.mp4,lost,neutral
+val,loud.mp4,loud,neutral
+val,lousy.mp4,lousy,angry
+val,love.mp4,love,neutral
+val,lunch.mp4,lunch,sad
+val,mainstreamed.mp4,mainstreamed,neutral
+val,major.mp4,major,neutral
+val,many.mp4,many,neutral
+val,me.mp4,me,neutral
+val,meaning.mp4,meaning,neutral
+val,meat.mp4,meat,neutral
+val,meeting.mp4,meeting,neutral
+val,melon.mp4,melon,neutral
+val,metal.mp4,metal,neutral
+val,mexico.mp4,mexico,neutral
+val,milk.mp4,milk,sad
+val,minus.mp4,minus,neutral
+val,mischievous.mp4,mischievous,angry
+val,money.mp4,money,neutral
+val,monkey.mp4,monkey,neutral
+val,moon.mp4,moon,neutral
+val,more.mp4,more,neutral
+val,most.mp4,most,neutral
+val,mother.mp4,mother,neutral
+val,mouse.mp4,mouse,neutral
+val,mouth.mp4,mouth,neutral
+val,movie.mp4,movie,neutral
+val,museum.mp4,museum,neutral
+val,mushroom.mp4,mushroom,neutral
+val,music.mp4,music,neutral
+val,mustache.mp4,mustache,neutral
+val,nervous.mp4,nervous,neutral
+val,new.mp4,new,neutral
+val,newspaper.mp4,newspaper,neutral
+val,nice.mp4,nice,neutral
+val,night.mp4,night,sad
+val,no.mp4,no,neutral
+val,north.mp4,north,neutral
+val,not like.mp4,not like,neutral
+val,not want.mp4,not want,neutral
+val,not.mp4,not,neutral
+val,nothing.mp4,nothing,sad
+val,now.mp4,now,neutral
+val,nuts.mp4,nuts,neutral
+val,office.mp4,office,neutral
+val,old.mp4,old,neutral
+val,one.mp4,one,neutral
+val,onion.mp4,onion,neutral
+val,only.mp4,only,neutral
+val,orange.mp4,orange,neutral
+val,out.mp4,out,neutral
+val,paint.mp4,paint,neutral
+val,pancake.mp4,pancake,happy
+val,paper.mp4,paper,neutral
+val,parents.mp4,parents,angry
+val,partner.mp4,partner,neutral
+val,past.mp4,past,neutral
+val,pay.mp4,pay,neutral
+val,peach.mp4,peach,neutral
+val,pear.mp4,pear,neutral
+val,pencil.mp4,pencil,neutral
+val,pepper.mp4,pepper,neutral
+val,perfect.mp4,perfect,neutral
+val,personality.mp4,personality,neutral
+val,pet.mp4,pet,neutral
+val,philippines.mp4,philippines,neutral
+val,phone.mp4,phone,sad
+val,piano.mp4,piano,neutral
+val,picture.mp4,picture,neutral
+val,pie.mp4,pie,neutral
+val,pig.mp4,pig,neutral
+val,pineapple.mp4,pineapple,neutral
+val,pink.mp4,pink,neutral
+val,pizza.mp4,pizza,neutral
+val,play.mp4,play,neutral
+val,plus.mp4,plus,neutral
+val,police.mp4,police,sad
+val,polite.mp4,polite,neutral
+val,poor.mp4,poor,angry
+val,popcorn.mp4,popcorn,neutral
+val,portugal.mp4,portugal,neutral
+val,principal.mp4,principal,neutral
+val,proud.mp4,proud,neutral
+val,pshaw.mp4,pshaw,angry
+val,psychology.mp4,psychology,neutral
+val,purple.mp4,purple,neutral
+val,question.mp4,question,neutral
+val,quiet.mp4,quiet,neutral
+val,rainbow.mp4,rainbow,happy
+val,read.mp4,read,neutral
+val,ready.mp4,ready,angry
+val,red.mp4,red,neutral
+val,relationship.mp4,relationship,neutral
+val,remember.mp4,remember,neutral
+val,right.mp4,right,neutral
+val,rude.mp4,rude,neutral
+val,russia.mp4,russia,neutral
+val,sad.mp4,sad,angry
+val,salad.mp4,salad,neutral
+val,salt.mp4,salt,neutral
+val,same.mp4,same,neutral
+val,sandwich.mp4,sandwich,neutral
+val,school.mp4,school,neutral
+val,science.mp4,science,neutral
+val,seem.mp4,seem,neutral
+val,serious.mp4,serious,neutral
+val,sew.mp4,sew,sad
+val,shark.mp4,shark,neutral
+val,shirt.mp4,shirt,neutral
+val,shock.mp4,shock,angry
+val,shoes.mp4,shoes,neutral
+val,short.mp4,short,neutral
+val,shrimp.mp4,shrimp,neutral
+val,shy.mp4,shy,happy
+val,sick.mp4,sick,sad
+val,sign.mp4,sign,neutral
+val,silver.mp4,silver,neutral
+val,single.mp4,single,neutral
+val,sit.mp4,sit,neutral
+val,skirt.mp4,skirt,neutral
+val,sleep.mp4,sleep,sad
+val,sleepy.mp4,sleepy,neutral
+val,slide.mp4,slide,sad
+val,slow.mp4,slow,neutral
+val,snake.mp4,snake,neutral
+val,sneeze.mp4,sneeze,neutral
+val,so.mp4,so,neutral
+val,soap.mp4,soap,neutral
+val,socks.mp4,socks,happy
+val,soda.mp4,soda,neutral
+val,some.mp4,some,neutral
+val,sophomore.mp4,sophomore,neutral
+val,sorry.mp4,sorry,neutral
+val,soup.mp4,soup,neutral
+val,south africa.mp4,south africa,fear
+val,south america.mp4,south america,happy
+val,south.mp4,south,neutral
+val,spaghetti.mp4,spaghetti,neutral
+val,speech.mp4,speech,neutral
+val,spider.mp4,spider,happy
+val,spoon.mp4,spoon,neutral
+val,spring up.mp4,spring up,sad
+val,squirrel.mp4,squirrel,neutral
+val,start.mp4,start,neutral
+val,still.mp4,still,neutral
+val,stop.mp4,stop,neutral
+val,store.mp4,store,neutral
+val,strange.mp4,strange,angry
+val,strict.mp4,strict,neutral
+val,stubborn.mp4,stubborn,angry
+val,stuck.mp4,stuck,angry
+val,study.mp4,study,sad
+val,stupid.mp4,stupid,neutral
+val,subway.mp4,subway,happy
+val,sun.mp4,sun,neutral
+val,sweater.mp4,sweater,neutral
+val,sweet.mp4,sweet,happy
+val,swimming.mp4,swimming,neutral
+val,table.mp4,table,happy
+val,take up.mp4,take up,neutral
+val,talk.mp4,talk,neutral
+val,tall.mp4,tall,neutral
+val,tea.mp4,tea,neutral
+val,teach.mp4,teach,angry
+val,teacher.mp4,teacher,sad
+val,tell.mp4,tell,neutral
+val,that one.mp4,that one,neutral
+val,there.mp4,there,neutral
+val,they.mp4,they,fear
+val,thin.mp4,thin,neutral
+val,thirsty.mp4,thirsty,neutral
+val,tie.mp4,tie,neutral
+val,tiger.mp4,tiger,neutral
+val,time.mp4,time,neutral
+val,tired.mp4,tired,sad
+val,toast.mp4,toast,neutral
+val,together.mp4,together,neutral
+val,tomato.mp4,tomato,neutral
+val,towel.mp4,towel,neutral
+val,train.mp4,train,neutral
+val,transfer.mp4,transfer,neutral
+val,travel.mp4,travel,neutral
+val,tree.mp4,tree,neutral
+val,trigonometry.mp4,trigonometry,neutral
+val,true.mp4,true,neutral
+val,turkey.mp4,turkey,neutral
+val,twenty.mp4,twenty,happy
+val,ugly.mp4,ugly,neutral
+val,umbrella.mp4,umbrella,happy
+val,understand.mp4,understand,neutral
+val,university.mp4,university,neutral
+val,up.mp4,up,neutral
+val,vacation.mp4,vacation,sad
+val,vacuum.mp4,vacuum,neutral
+val,vegetable.mp4,vegetable,sad
+val,wake up.mp4,wake up,sad
+val,walk.mp4,walk,neutral
+val,want.mp4,want,neutral
+val,warm.mp4,warm,neutral
+val,watch.mp4,watch,neutral
+val,water.mp4,water,neutral
+val,watermelon.mp4,watermelon,neutral
+val,weak.mp4,weak,neutral
+val,welcome.mp4,welcome,happy
+val,wet.mp4,wet,neutral
+val,whale.mp4,whale,neutral
+val,what.mp4,what,neutral
+val,when.mp4,when,neutral
+val,white.mp4,white,neutral
+val,why.mp4,why,neutral
+val,win.mp4,win,neutral
+val,wine.mp4,wine,neutral
+val,with.mp4,with,neutral
+val,wood.mp4,wood,neutral
+val,worm.mp4,worm,neutral
+val,worry.mp4,worry,neutral
+val,wow.mp4,wow,neutral
+val,wrong.mp4,wrong,neutral
+val,year.mp4,year,neutral
+val,yellow.mp4,yellow,neutral
+val,yes.mp4,yes,sad
+val,young.mp4,young,neutral
