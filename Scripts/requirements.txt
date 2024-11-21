@@ -4,4 +4,3 @@ numpy
 openai
 deep-translator
 python-dotenv
-cv2
