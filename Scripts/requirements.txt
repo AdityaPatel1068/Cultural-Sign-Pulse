@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy
+openai
+deep-translator
+python-dotenv
